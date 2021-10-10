@@ -21,7 +21,7 @@ public class BankAccountTest {
         ba_ac2.getValues();
         ba_ac2.setValues(201, 'again', 55000);
         
-        ba_ac1.deposit(25000);//
+       // ba_ac1.deposit(25000);
         
     }
  }
